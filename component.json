@@ -9,7 +9,7 @@
     "ui"
   ],
   "dependencies": {
-    "component/jquery": "*",
+    "kelonye/jquery": "1.10.2",
     "component/autoscale-canvas": "*",
     "component/emitter": "*"
   },
